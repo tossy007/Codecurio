@@ -1,5 +1,5 @@
 🧠 About Codecurio
-Hi, I’m Mohammed — a first-year engineering student exploring the world of code with curiosity and purpose.
+Hi, I’m Yaser — a first-year engineering student exploring the world of code with curiosity and purpose.
 
 Codecurio is my personal space for learning, experimenting, and growing as a developer. I’m currently building strong foundations in C, Python, and Git, and I treat every academic lab as a mini-project — something worth documenting, refining, and sharing.
 
