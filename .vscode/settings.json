@@ -1,0 +1,5 @@
+{
+    "code-runner.showStopIconInEditorTitleMenu": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true
+}
